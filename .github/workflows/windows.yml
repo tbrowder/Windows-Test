@@ -1,4 +1,7 @@
 name: Win64
+  
+env:
+  TEST_JOBS: 1
 
 on:
   push:
