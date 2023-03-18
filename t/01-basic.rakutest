@@ -1,0 +1,6 @@
+use Test;
+use Windows::Test;
+
+pass "replace me";
+
+done-testing;

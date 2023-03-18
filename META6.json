@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a '/.github/workflows/windows.yml' file for Win64 Raku module testing",
+  "license": "Artistic-2.0",
+  "name": "Windows::Test",
+  "perl": "6.d",
+  "provides": {
+    "Windows::Test": "lib/Windows/Test.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
