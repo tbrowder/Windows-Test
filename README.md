@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/Windows-Test/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/Windows-Test/actions)
+
 NAME
 ====
 
@@ -13,7 +15,9 @@ use Windows::Test;
 DESCRIPTION
 ===========
 
-**Windows::Test** is ...
+**Windows::Test** is intended to provide a comprehensive set of Windows OS system components for Gitbub Workflows testing of any Raku module on Github-provided Windows computer.
+
+Users are encouraged to file an issue anytime this module's `/.github/workflows/windows.yml` file doesn't work for your module. Please include a link to the problem repository on [https://github.com](https://github.com).
 
 AUTHOR
 ======
