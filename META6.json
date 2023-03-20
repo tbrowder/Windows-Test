@@ -6,6 +6,10 @@
   "build-depends": [
   ],
   "depends": [
+    "PDF::Content",
+    "PDF::Lite",
+    "Pod::To::Markdown",
+    "PDF::Class"
   ],
   "description": "Provides a '/.github/workflows/windows.yml' file for Win64 Raku module testing",
   "license": "Artistic-2.0",
