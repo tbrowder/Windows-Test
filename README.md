@@ -19,6 +19,15 @@ DESCRIPTION
 
 Users are encouraged to file an issue anytime this module's `/.github/workflows/windows.yml` file doesn't work for your module. Please include a link to the problem repository on [https://github.com](https://github.com).
 
+TODO
+----
+
+Use Choclatey to add some programs to the Github Workflow Windows Virtual Machine including:
+
+  * `libfreetype6-dev`
+
+    This C/C++ library is required for many of the `PDF*` modules in the Raku module collections.
+
 AUTHOR
 ======
 

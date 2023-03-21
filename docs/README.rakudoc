@@ -23,6 +23,18 @@ C</.github/workflows/windows.yml> file doesn't work for your
 module. Please include a link to the problem repository
 on L<https://github.com>.
 
+=head2 TODO
+
+Use Choclatey to add some programs to the Github Workflow
+Windows Virtual Machine including:
+
+=begin item 
+C<libfreetype6-dev>
+
+This C/C++ library is required for many of the C<PDF*> modules
+in the Raku module collections.
+=end item
+
 =head1 AUTHOR
 
 Tom Browder <tbrowder@acm.org>
