@@ -1,6 +1,8 @@
 Revision history for Windows-Test
 
 {{$NEXT}}
+
+0.0.3  2023-04-09T09:30:47-05:00
     - Rename the yml file to highlight its temporary nature
     - Place a copy of the yml file in the home directory for easy refernce
 
